@@ -12,4 +12,4 @@ A distributed, global tile server, for free access to a map tile API for Your ne
 - Later with more nodes, map updates get injected via p2p only
 - volunteers could add support relays, by installing a free PC background app and/or renting one of these 20$ servers above and/or for instance via a 1-click install on Digital Ocean)
 
-4. Upload the tiles to P2P Network(s) (if your app's (with CesiumJS) back-end caches content p2p, tiles become distributed automatically)
+4. Upload the tiles to P2P Network(s) (if your app (with CesiumJS for instance) caches content p2p, tiles become distributed automatically)
