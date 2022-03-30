@@ -2,7 +2,7 @@
 A distributed, global tile server, for free access to a map tile API for Your next location based application https://maptile.io
 <br><br><br>
 
-# Tile pipeline to distribution concept
+# Tile pipeline
 
 1. Create tiles from sourcemaps https://github.com/worldpeaceenginelabs/blender-osm-large-scale-creator
 2. Style tiles to Google Maps style (automated script already existing, i am searching for the name)
